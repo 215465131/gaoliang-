@@ -11,3 +11,7 @@ int a,int b;
 return a + b;
 ~~~
 
+~~~c++
+cout << "a" << a << endl;
+~~~
+
