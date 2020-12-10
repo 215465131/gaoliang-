@@ -5,3 +5,9 @@
 wangsiqing
 
 gaoliang
+
+~~~c
+int a,int b;
+return a + b;
+~~~
+
