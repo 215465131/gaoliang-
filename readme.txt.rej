@@ -1,0 +1,20 @@
+diff a/readme.txt b/readme.txt	(rejected hunks)
+@@ -14,13 +14,15 @@
+ ~~~c++
+ cout << "a" << a << endl;
+ ~~~
+ 
+ # 46546
+ 
+ |      |      |      |
+ | ---- | ---- | ---- |
+ |      |      |      |
+ |      |      |      |
+ |      |      |      |
+ 
+-AAAAA
+\ No newline at end of file
++AAAAA
++
++BBBBB
+\ No newline at end of file
