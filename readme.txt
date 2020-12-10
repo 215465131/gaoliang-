@@ -24,3 +24,5 @@ cout << "a" << a << endl;
 |      |      |      |
 
 AAAAA
+
+BBBBB
