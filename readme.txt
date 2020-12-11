@@ -23,7 +23,7 @@ cout << "a" << a << endl;
 |      |      |      |
 |      |      |      |
 
-AAAAA
+##AAAAA
 
 BBBBB
 
